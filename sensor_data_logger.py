@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import sqlite3
 import random
 import time
@@ -25,7 +24,7 @@ def create_database():
 
 def generate_sensor_data():
     """Simulate random sensor readings."""
-    temperature = round(random.uniform(20, 80), 2)  # °C
+    temperature = round(random.uniform(20, 80), 2)  # Cel
     voltage = round(random.uniform(3.0, 5.0), 2)   # Volts
     current = round(random.uniform(0.5, 2.5), 2)   # Amperes
     return temperature, voltage, current
@@ -44,7 +43,7 @@ def log_sensor_data():
                            (timestamp, temperature, voltage, current))
             conn.commit()
             
-            print(f"[{timestamp}] Temp: {temperature}°C | Voltage: {voltage}V | Current: {current}A")
+            print(f"[{timestamp}] Temp: {temperature}Cel | Voltage: {voltage}V | Current: {current}A")
             
             time.sleep(1)  # Simulate real-time logging (1 sec delay)
     
