@@ -1,0 +1,13 @@
+C:\Users\sandyman\playground\AutomatedTestingProject\Automated-Hardware-Testing-and-Logging\Csharp_GUI\SensorDataViewer\SensorDataViewer\bin\Debug\SensorDataViewer.exe.config
+C:\Users\sandyman\playground\AutomatedTestingProject\Automated-Hardware-Testing-and-Logging\Csharp_GUI\SensorDataViewer\SensorDataViewer\bin\Debug\SensorDataViewer.exe
+C:\Users\sandyman\playground\AutomatedTestingProject\Automated-Hardware-Testing-and-Logging\Csharp_GUI\SensorDataViewer\SensorDataViewer\bin\Debug\SensorDataViewer.pdb
+C:\Users\sandyman\playground\AutomatedTestingProject\Automated-Hardware-Testing-and-Logging\Csharp_GUI\SensorDataViewer\SensorDataViewer\bin\Debug\System.Data.SQLite.dll
+C:\Users\sandyman\playground\AutomatedTestingProject\Automated-Hardware-Testing-and-Logging\Csharp_GUI\SensorDataViewer\SensorDataViewer\bin\Debug\System.Data.SQLite.xml
+C:\Users\sandyman\playground\AutomatedTestingProject\Automated-Hardware-Testing-and-Logging\Csharp_GUI\SensorDataViewer\SensorDataViewer\obj\Debug\SensorDataViewer.csproj.AssemblyReference.cache
+C:\Users\sandyman\playground\AutomatedTestingProject\Automated-Hardware-Testing-and-Logging\Csharp_GUI\SensorDataViewer\SensorDataViewer\obj\Debug\SensorDataViewer.Form1.resources
+C:\Users\sandyman\playground\AutomatedTestingProject\Automated-Hardware-Testing-and-Logging\Csharp_GUI\SensorDataViewer\SensorDataViewer\obj\Debug\SensorDataViewer.Properties.Resources.resources
+C:\Users\sandyman\playground\AutomatedTestingProject\Automated-Hardware-Testing-and-Logging\Csharp_GUI\SensorDataViewer\SensorDataViewer\obj\Debug\SensorDataViewer.csproj.GenerateResource.cache
+C:\Users\sandyman\playground\AutomatedTestingProject\Automated-Hardware-Testing-and-Logging\Csharp_GUI\SensorDataViewer\SensorDataViewer\obj\Debug\SensorDataViewer.csproj.CoreCompileInputs.cache
+C:\Users\sandyman\playground\AutomatedTestingProject\Automated-Hardware-Testing-and-Logging\Csharp_GUI\SensorDataViewer\SensorDataViewer\obj\Debug\SensorDa.01682DFC.Up2Date
+C:\Users\sandyman\playground\AutomatedTestingProject\Automated-Hardware-Testing-and-Logging\Csharp_GUI\SensorDataViewer\SensorDataViewer\obj\Debug\SensorDataViewer.exe
+C:\Users\sandyman\playground\AutomatedTestingProject\Automated-Hardware-Testing-and-Logging\Csharp_GUI\SensorDataViewer\SensorDataViewer\obj\Debug\SensorDataViewer.pdb

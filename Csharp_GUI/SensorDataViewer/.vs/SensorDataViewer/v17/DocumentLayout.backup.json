@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|c:\\users\\sandyman\\playground\\automatedtestingproject\\automated-hardware-testing-and-logging\\csharp_gui\\sensordataviewer\\sensordataviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|solutionrelative:sensordataviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|c:\\users\\sandyman\\playground\\automatedtestingproject\\automated-hardware-testing-and-logging\\csharp_gui\\sensordataviewer\\sensordataviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|solutionrelative:sensordataviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\sensordataviewer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|solutionrelative:sensordataviewer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|c:\\users\\sandyman\\playground\\automatedtestingproject\\automated-hardware-testing-and-logging\\csharp_gui\\sensordataviewer\\sensordataviewer\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|solutionrelative:sensordataviewer\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\Form1.cs",
+              "RelativeDocumentMoniker": "SensorDataViewer\\Form1.cs",
+              "ToolTip": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\Form1.cs",
+              "RelativeToolTip": "SensorDataViewer\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:40:11.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\Form1.cs",
+              "RelativeDocumentMoniker": "SensorDataViewer\\Form1.cs",
+              "ToolTip": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\Form1.cs [Design]",
+              "RelativeToolTip": "SensorDataViewer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:34:25.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SensorDataViewer\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\Form1.Designer.cs",
+              "RelativeToolTip": "SensorDataViewer\\Form1.Designer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAjwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:26:31.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "SensorDataViewer\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\DatabaseHelper.cs",
+              "RelativeToolTip": "SensorDataViewer\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:50:20.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
