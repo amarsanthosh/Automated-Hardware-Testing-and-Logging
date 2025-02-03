@@ -100,7 +100,7 @@ namespace SensorDataViewer
                 {
                     dataGridView1.DataSource = dt;
                     UpdateChart(dt);
-                    CheckThresholds(dt);
+                    //CheckThresholds(dt);
                     Console.WriteLine("DataGridView updated with " + dt.Rows.Count + " rows");
                 }));
                 Thread.Sleep(1000); // 1-second delay
@@ -292,6 +292,49 @@ namespace SensorDataViewer
         private void cartesianChart1_ChildChanged(object sender, System.Windows.Forms.Integration.ChildChangedEventArgs e)
         {
 
+        }
+
+
+        private void btnExportReport_Click_1(object sender, EventArgs e)
+        {
+            DataTable dt = (DataTable)dataGridView1.DataSource;
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+            saveFileDialog.Filter = "CSV files (*.csv)|*.csv|Excel files (*.xlsx)|*.xlsx";
+            saveFileDialog.Title = "Save Report";
+
+            if (saveFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                string filePath = saveFileDialog.FileName;
+                if (Path.GetExtension(filePath).ToLower() == ".csv")
+                {
+                    ExportToCSV(dt, filePath);
+                }
+                else if (Path.GetExtension(filePath).ToLower() == ".xlsx")
+                {
+                    GenerateReport(dt, filePath);
+                }
+            }
+        }
+
+        private void btnStartTest_Click_1(object sender, EventArgs e)
+        {
+            if (!isLogging)
+            {
+                isLogging = true;
+                loggingThread = new Thread(new ThreadStart(LogData));
+                loggingThread.Start();
+                MessageBox.Show("Logging started.");
+            }
+        }
+
+        private void btnStopTest_Click_1(object sender, EventArgs e)
+        {
+            if (isLogging)
+            {
+                isLogging = false;
+                loggingThread.Join();
+                MessageBox.Show("Logging stopped.");
+            }
         }
     }
 }

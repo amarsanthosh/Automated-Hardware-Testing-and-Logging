@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorDataViewer", "SensorDataViewer\SensorDataViewer.csproj", "{73761AFD-7BB7-476D-B619-F66BC7E08799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorDataViewer.Tests", "TestProject1\SensorDataViewer.Tests.csproj", "{80BA4F3A-55FC-4436-90BA-0B2418A797AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{73761AFD-7BB7-476D-B619-F66BC7E08799}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73761AFD-7BB7-476D-B619-F66BC7E08799}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73761AFD-7BB7-476D-B619-F66BC7E08799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BA4F3A-55FC-4436-90BA-0B2418A797AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BA4F3A-55FC-4436-90BA-0B2418A797AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BA4F3A-55FC-4436-90BA-0B2418A797AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BA4F3A-55FC-4436-90BA-0B2418A797AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

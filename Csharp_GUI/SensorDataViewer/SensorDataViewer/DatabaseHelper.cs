@@ -11,7 +11,7 @@ public class DatabaseHelper
         using (SQLiteConnection conn = new SQLiteConnection(connectionString))
         {
             conn.Open();
-            string query = "SELECT timestamp, temperature, voltage, current FROM SensorReadings ORDER BY id DESC LIMIT 5"; // Fetch last 10 entries
+            string query = "SELECT timestamp, temperature, voltage, current FROM SensorReadings ORDER BY id DESC LIMIT 13"; // Fetch last 13 entries
 
             using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
             {
