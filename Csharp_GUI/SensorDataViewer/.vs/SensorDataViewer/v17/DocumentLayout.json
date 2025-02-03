@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\sensordataviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\sensordataviewer\\twilioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|solutionrelative:sensordataviewer\\twilioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|c:\\users\\sandyman\\playground\\automatedtestingproject\\automated-hardware-testing-and-logging\\csharp_gui\\sensordataviewer\\sensordataviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|solutionrelative:sensordataviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -27,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|solutionrelative:sensordataviewer\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|c:\\users\\sandyman\\playground\\automatedtestingproject\\automated-hardware-testing-and-logging\\csharp_gui\\sensordataviewer\\sensordataviewer\\twilioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|solutionrelative:sensordataviewer\\twilioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\sensordataviewer\\dataanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73761AFD-7BB7-476D-B619-F66BC7E08799}|SensorDataViewer\\SensorDataViewer.csproj|solutionrelative:sensordataviewer\\dataanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DataAnalyzer.cs",
               "DocumentMoniker": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\TestProject1\\DataAnalyzer.cs",
               "RelativeDocumentMoniker": "TestProject1\\DataAnalyzer.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "TestProject1\\DataAnalyzer.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T09:05:40.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T09:05:40.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ExampleUnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\TestProject1\\ExampleUnitTest1.cs",
               "RelativeDocumentMoniker": "TestProject1\\ExampleUnitTest1.cs",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "TestProject1\\ExampleUnitTest1.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAQwAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T09:00:33.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T09:00:33.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "SensorDataViewer\\Form1.Designer.cs",
@@ -85,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\Form1.cs",
               "RelativeDocumentMoniker": "SensorDataViewer\\Form1.cs",
@@ -97,20 +95,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "TwilioService.cs",
               "DocumentMoniker": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\TwilioService.cs",
               "RelativeDocumentMoniker": "SensorDataViewer\\TwilioService.cs",
               "ToolTip": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\TwilioService.cs",
               "RelativeToolTip": "SensorDataViewer\\TwilioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T02:49:12.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\Form1.cs",
               "RelativeDocumentMoniker": "SensorDataViewer\\Form1.cs",
@@ -118,8 +116,7 @@
               "RelativeToolTip": "SensorDataViewer\\Form1.cs",
               "ViewState": "AgIAAB0BAAAAAAAAAAAAACcBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T12:40:11.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T12:40:11.751Z"
             },
             {
               "$type": "Document",
@@ -131,12 +128,11 @@
               "RelativeToolTip": "SensorDataViewer\\DataAnalyzer.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T17:49:34.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T17:49:34.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DatabaseHelper.cs",
               "DocumentMoniker": "C:\\Users\\sandyman\\playground\\AutomatedTestingProject\\Automated-Hardware-Testing-and-Logging\\Csharp_GUI\\SensorDataViewer\\SensorDataViewer\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "SensorDataViewer\\DatabaseHelper.cs",
@@ -144,8 +140,7 @@
               "RelativeToolTip": "SensorDataViewer\\DatabaseHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T09:50:20.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T09:50:20.209Z"
             }
           ]
         }
