@@ -100,6 +100,7 @@ namespace SensorDataViewer
                 {
                     dataGridView1.DataSource = dt;
                     UpdateChart(dt);
+                    CheckThresholds(dt);
                     Console.WriteLine("DataGridView updated with " + dt.Rows.Count + " rows");
                 }));
                 Thread.Sleep(1000); // 1-second delay
@@ -255,6 +256,33 @@ namespace SensorDataViewer
                 workbook.SaveAs(filePath);
             }
         }
+        private void CheckThresholds(DataTable dt)
+        {
+            var twilioService = new TwilioService();
+
+            foreach (DataRow row in dt.Rows)
+            {
+                double temperature = Convert.ToDouble(row["temperature"]);
+                double voltage = Convert.ToDouble(row["voltage"]);
+                double current = Convert.ToDouble(row["current"]);
+
+                if (temperature > 75)
+                {
+                    twilioService.SendSms("+917339442945", $"Alert: High temperature detected: {temperature}C");
+                }
+
+                if (voltage > 4.5)
+                {
+                    twilioService.SendSms("+917339442945", $"Alert: High voltage detected: {voltage}V");
+                }
+
+                if (current > 2.0)
+                {
+                    twilioService.SendSms("+917339442945", $"Alert: High current detected: {current}A");
+                }
+            }
+        }
+
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
