@@ -268,17 +268,17 @@ namespace SensorDataViewer
 
                 if (temperature > 75)
                 {
-                    twilioService.SendSms("+917339442945", $"Alert: High temperature detected: {temperature}C");
+                    twilioService.SendSms("+917339442985", $"Alert: High temperature detected: {temperature}C");
                 }
 
                 if (voltage > 4.5)
                 {
-                    twilioService.SendSms("+917339442945", $"Alert: High voltage detected: {voltage}V");
+                    twilioService.SendSms("+917339442985", $"Alert: High voltage detected: {voltage}V");
                 }
 
                 if (current > 2.0)
                 {
-                    twilioService.SendSms("+917339442945", $"Alert: High current detected: {current}A");
+                    twilioService.SendSms("+917339442985", $"Alert: High current detected: {current}A");
                 }
             }
         }
