@@ -2,6 +2,8 @@
 
 ## Overview
 Sensor Data Viewer is a comprehensive application designed to monitor, analyze, and visualize sensor data in real-time. The project includes features such as data analysis, reporting, notification services, and an enhanced graphical user interface (GUI). It is built using C# and WinForms, with integration of external APIs and notification services.
+
+
 ![sensor1](https://github.com/user-attachments/assets/5fd5fd84-c700-4eb4-b735-e59b0e635225)
 ## Features
 
